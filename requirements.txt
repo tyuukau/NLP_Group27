@@ -1,0 +1,10 @@
+torch==2.0.0
+transformers
+tqdm
+nltk
+scikit-learn
+scipy
+numpy
+regex
+pandas
+spacy
